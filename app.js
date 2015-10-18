@@ -18,7 +18,7 @@ var middleware = {
 app.use(middleware.logger);
 
 app.get('/mal', function(req, res){
-    res.send('malmisin oglum!');
+    res.send('malmisin oglum!!');
 });
 
 app.use(express.static(__dirname + '/public/views'));
