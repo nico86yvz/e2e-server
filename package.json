@@ -1,0 +1,14 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "End to end project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serkan Yavuz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
