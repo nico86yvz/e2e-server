@@ -24,5 +24,5 @@ app.get('/mal', function(req, res){
 app.use(express.static(__dirname + '/public/views'));
 
 app.listen(PORT, function() {
-console.log('express server is running: ' + PORT);
+console.log('express server is running ulaan: ' + PORT);
 });
